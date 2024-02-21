@@ -1,3 +1,3 @@
 # About me
 
-- I’m currently working on .NET and AI Projects.
+- Interested in .NET Technologies, Machine Learning and Artificial Intelligence.
